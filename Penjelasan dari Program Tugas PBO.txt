@@ -1,0 +1,9 @@
+Penjelasan dari program tugas PBO8 :
+
+1.Konsep Program : untuk konsep program saya menggunakan pewarisan, overriding dan accses protected. untuk class pewaris adalah class Manusia yang mewariskan kepada 
+                   class pria dan class wanita,overiding saya letakan padan class pria dan class wanita, sedangkan untuk protected saya pakai pada method hobby.
+                   overriding saya letakan pada method pria dan wanita adalah agar dapat mengatur hak akses dengan syarat parameter method harus sama.
+
+2.Alur Program : ketika program dijalankan/di Run(tergantung method pada class mana yang kita panggil pada main class) tetapi semua method pada masing-masing class 
+	         yang kita panggil pada main class akan sama hasilnya ketika di run karena diwariskan antara masing-masing class.ketika di run program akan meminta 
+		 mengimputkan nama, alamat dan nomor telepon,dan setelah itu meminta mengiputkan hobby.
